@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.025,
+  "time": 0.027,
   "errors": [],
   "tasks": [
     {
@@ -47,13 +47,13 @@
         "scheme": "file",
         "title": "Partos",
         "stats": {
-          "hash": "131b9b6ae0431a7302072c3d1ff6d200",
-          "bytes": 6616,
+          "hash": "a5056356a564469431bc9ad2046990c7",
+          "bytes": 6687,
           "fields": 5,
-          "rows": 352
+          "rows": 356
         }
       },
-      "time": 0.017,
+      "time": 0.02,
       "scope": [
         "hash-count-error",
         "byte-count-error",
