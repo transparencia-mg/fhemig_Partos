@@ -8,8 +8,8 @@ resources:
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: partos-2025
-    path: data/partos-2025.csv
+    name: partos
+    path: data/partos.csv
     profile: tabular-data-resource
     schema:
       fields:
